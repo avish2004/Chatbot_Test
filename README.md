@@ -1,4 +1,5 @@
 # Chatbot_Test
+This is just a test. Encountered many issues with this project.
 An AI-powered chatbot using Natural Language Processing and Machine Learning.
 
 # Features
@@ -40,3 +41,5 @@ Reload Window:
 Sometimes you may need to reload the window for changes to take effect. You can do this by typing Reload Window in the command palette and selecting it.
 
 # Or try creating a virtual environment
+
+Any inputs from the community will be appreciated.
